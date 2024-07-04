@@ -2,6 +2,7 @@
 
 A new Flutter project for learning japanese.
 
+
 # Flutter Japanese Learning App
 
 This Flutter application is designed to help users learn Japanese vocabulary by providing audio pronunciation for words in both English and Japanese.
@@ -11,7 +12,9 @@ This Flutter application is designed to help users learn Japanese vocabulary by 
 - **Bilingual Selection:** Users can select words displayed in both English and Japanese.
 - **Audio Pronunciation:** Hear how each word is pronounced in Japanese.
 - **Interactive Learning:** Engage with a simple and intuitive interface.
+## Home Page
 
+<img src="LearningAppPhotos/HomePage.png" alt="Home Page" width="300" />
 ## Technologies Used
 
 - Flutter SDK
