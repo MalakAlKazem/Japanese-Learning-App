@@ -12,9 +12,15 @@ This Flutter application is designed to help users learn Japanese vocabulary by 
 - **Bilingual Selection:** Users can select words displayed in both English and Japanese.
 - **Audio Pronunciation:** Hear how each word is pronounced in Japanese.
 - **Interactive Learning:** Engage with a simple and intuitive interface.
-## Home Page
+### App Pages
 
-<img src="LearningAppPhotos/HomePage.png" alt="Home Page" width="300" />
+<div style="display: flex; flex-direction: row;">
+  <img src="LearningAppPhotos/HomePage.png" alt="Home Page" width="300" style="margin-right: 10px;" />
+  <img src="LearningAppPhotos/Numbers.png" alt="Numbers Page" width="300" />
+   <img src="LearningAppPhotos/Numbers.png" alt="Numbers Page" width="300" />
+   <img src="LearningAppPhotos/Numbers.png" alt="Numbers Page" width="300" />
+   <img src="LearningAppPhotos/Numbers.png" alt="Numbers Page" width="300" />
+</div>
 ## Technologies Used
 
 - Flutter SDK
