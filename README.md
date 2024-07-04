@@ -21,6 +21,7 @@ This Flutter application is designed to help users learn Japanese vocabulary by 
   <img src="LearningAppPhotos/FamilyMembers.png" alt="Family Members Page" width="200" style="margin: 10px;" />
   <img src="LearningAppPhotos/Phrases.png" alt="Phrases Page" width="200" style="margin: 10px;" />
 </div>
+
 ## Technologies Used
 
 - Flutter SDK
