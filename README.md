@@ -1,6 +1,6 @@
 # learning_app
 
-A new Flutter project.
+A new Flutter project for learning japanese.
 
 ## Getting Started
 
