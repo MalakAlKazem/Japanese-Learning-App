@@ -10,13 +10,14 @@ This Flutter application is designed to help users learn Japanese vocabulary by 
 - **Interactive Learning:** Engage with a simple and intuitive interface.
 ### App Pages
 
-<div style="display: flex; flex-direction: row; flex-wrap: nowrap;">
+<div style="display: flex; flex-wrap: nowrap; overflow-x: auto;">
   <img src="LearningAppPhotos/HomePage.png" alt="Home Page" width="200" style="margin-right: 10px;" />
   <img src="LearningAppPhotos/Numbers.png" alt="Numbers Page" width="200" style="margin-right: 10px;" />
   <img src="LearningAppPhotos/Colors.png" alt="Colors Page" width="200" style="margin-right: 10px;" />
   <img src="LearningAppPhotos/FamilyMembers.png" alt="Family Members Page" width="200" style="margin-right: 10px;" />
-  <img src="LearningAppPhotos/Phrases.png" alt="Phrases Page" width="200" />
+  <img src="LearningAppPhotos/Phrases.png" alt="Phrases Page" width="200" style="margin-right: 10px;" />
 </div>
+
 
 ## Technologies Used
 
