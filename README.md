@@ -1,7 +1,3 @@
-# learning_app
-
-A new Flutter project for learning japanese.
-
 
 # Flutter Japanese Learning App
 
